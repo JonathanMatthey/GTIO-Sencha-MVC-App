@@ -1,0 +1,24 @@
+Progress log on GTIO - Sencha Touch
+
++ Structure app folders
++ Home page with all photos
++ swipe to previous / next looks
++ on click, show individual look
++ initialize Community Looks Store
+
+- Build bottom menu bar
+- top profile bar, name and image
+- sign in / login buttons through facebook.
+- display community looks store
+- wear it / change it buttons
+- display comments
+- add comment form
+- add profile screen
+- add uploads panel
+- add stylists panel
+- add browse panel
+- add settings
+- add notifications screen
+- add push notifications
+- add email settings switches
+- add in-app browser when tapping on link in comments
